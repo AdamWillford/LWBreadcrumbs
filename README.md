@@ -10,5 +10,4 @@ This module has been published to the PowerShell Gallery. In your script edit:
 install-module LWBreadcrumbs
 ```
 
-Still no breadcrumbs:
-Tm8gcmVhbGx5IHlvdSBhcmUgbG9va2luZyBpbiB0aGUgd3JvbmcgcGxhY2Uh
+erethay areyay onay eadcrumbsbray erehay
