@@ -4,7 +4,7 @@ This is a simple module that dries and then grinds bread to produce delicious cr
 
 # Installation instructions
 
-This module has been published to the PowerShell Gallery. In your script edit:  
+This module has been published to the PowerShell Gallery. Install with:  
 
 ```
 install-module LWBreadcrumbs
