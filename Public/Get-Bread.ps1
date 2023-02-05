@@ -37,7 +37,7 @@ function Get-Bread {
     )
 
     if ($Crumbs){
-        Write-Output "404 Crumb Not Found"
+        Write-Output "Ahhhh there are crumbs everywhere!"
     }
     $Rand = Get-Random -minimum 0 -maximum $Breadfacts.count
     Return $Breadfacts[$Rand]
